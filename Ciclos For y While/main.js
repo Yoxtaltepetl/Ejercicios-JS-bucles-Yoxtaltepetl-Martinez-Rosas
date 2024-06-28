@@ -2,7 +2,7 @@
 /* Ejercicio 1
 let numeroIngresado = parseInt(prompt("Ingrese la table desea"));
 
-for (let i = 1; i < 11; i++) {
+for (let i = 0; i < 10; i++) {
     console.log(numeroIngresado * i);
 }
 */
