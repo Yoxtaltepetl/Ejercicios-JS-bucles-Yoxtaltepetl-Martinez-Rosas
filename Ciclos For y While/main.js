@@ -1,11 +1,11 @@
 
-
+/* ejercicio 1
 let numeroIngresado = parseInt(prompt("Ingrese la table desea"));
 
 for (let i = 1; i <= 10; i++) {
     console.log(numeroIngresado * i);
 }
-
+*/
 /////////////////////////////////////////////////////////////////////////
 
 /* Ejercicio 2
